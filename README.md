@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working as a Senior Software Engineer at Grafana on the DataViz team!
+- 🔭 I’m currently working as a Software Engineer at Grafana on the DataViz team!
 - 🌱 I’m currently a front-end engineer using React and TypeScript (among many other technologies and testing frameworks!)
 - 💬 My interests! Arsenal Football Club, Skiing, the Canadian Rockies, PC gaming, among many other things (I really like to try new things).
 - 📫 How to reach me: alexander.j.spencer@gmail.com
